@@ -1,6 +1,6 @@
 # Promptopia Nextjs 13
 
-### Full Stack App Frond End and Back End, loggin with next and google auth. 
+### Full Stack App Frond End and Back End, loggin with Next and Google Auth. 
 ### You can create, edit, delete posts in real time and search users, post and tags.
 
 ### Built With
